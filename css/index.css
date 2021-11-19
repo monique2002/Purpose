@@ -1,0 +1,36 @@
+.icon-team-img {
+    border-radius: 200px;
+    width: 55px;
+    height: 60px;
+}
+
+.text-tinho {
+    color: #fff;
+}
+
+.bnt-login {
+    color: var(--primary-color);
+    text-transform: uppercase;
+    border: 1px solid var(--primary-color);
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+.bnt-login:hover {
+    background-color: #fff;
+    border: 1px solid #fff;
+    transition: all 0.3s ease;
+}
+
+.bnt-registration {
+    padding: 5px 10px;
+    border-radius: 3px;
+    background-color: #fff;
+    border: 1px solid #fff;
+    color: var(--primary-color);
+}
+.bnt-registration:hover {
+    background: transparent;
+    border: 1px solid var(--primary-color);
+    transition: all 0.3s ease;
+}

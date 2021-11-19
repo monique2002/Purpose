@@ -1,0 +1,38 @@
+.box {
+    margin-top: 150px;
+    align-items: center;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+}
+
+.input {
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.btn-log {
+    background: #000;
+    width: 300px;
+    height: 35px;
+    border-radius: 3px;
+    color: #fff;
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: 15px;
+}
+
+.box-login {
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    padding: 45px 10px;
+    border-radius: 3px;
+    margin-top: -65px;
+}
+
+.box-login h4 {
+    font-weight: 500;
+    margin-bottom: 15px;
+    font-size: 35px;
+}

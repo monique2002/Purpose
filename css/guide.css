@@ -1,0 +1,13 @@
+.box {
+    margin-top: 100px;
+    height: 30vw;
+}
+
+h1 {
+    text-transform: none !important;
+    text-align: center;
+}
+
+.tools-menu, .tools-menu a {
+    color: #fff;
+}

@@ -1,0 +1,15 @@
+.image-development {
+    width: 150px;
+    align-self: center;
+}
+
+.box {
+    margin-top: 150px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.tools-menu, .tools-menu a {
+    color: #fff;
+}
