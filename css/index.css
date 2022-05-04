@@ -34,3 +34,6 @@
     border: 1px solid var(--primary-color);
     transition: all 0.3s ease;
 }
+.img-logo {
+    width: 50px;
+}
